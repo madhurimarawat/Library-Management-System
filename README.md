@@ -13,7 +13,7 @@ This is my project Library Management System Website which I made under the inde
 
 <img width="960" alt="Website 5" src="https://github.com/madhurimarawat/Library-Management-System/assets/105432776/56f94a42-60ed-47c1-a5aa-c07d66474194">
 
-<h1>Technology Used 💻</h1>
+# Technology Used 💻
 
 ### 🛠 &nbsp;Languages and Tools :
 <p>
@@ -23,12 +23,34 @@ This is my project Library Management System Website which I made under the inde
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </p>
 
-<h1>Description</h1>
+# Description
 --> One of the primary goals of frontend development is to create a smooth or "frictionless" user experience.<br>
 --> First a user friendly and responsive interface through frontend was developed.<br>
 --> All visual features, pixels and cross browser compatibility will be taken in account.<br>
 --> The website design is simple and easy to work with along with an attractive interface.<br>
 --> Websites works well on multiple devices and screen sizes, which is possible as it involves responsive design.
 
-<h1>Website Link</h1>
-<a href="https://library-management-website.netlify.app/"><img src="https://5.imimg.com/data5/SELLER/Default/2021/12/UC/BP/KG/52242850/1-4--500x500.jpg" height=100 title="Library Management system website"alt="Library Management system website"></a>
+---
+
+# Mode of Execution Used  <img src="https://th.bing.com/th?id=OSAAS.67CE744F3AF9AB3181DA21630627453B&w=80&h=80&o=6&dpr=2&pid=5.1" title="Notepad++" alt="Notepad++" width="40" height="40"> </a> &nbsp;
+<h2>Notepad++</h2>
+ --> To begin, visit the official website &nbsp; <a href="https://notepad-plus-plus.org/downloads/"><img src="https://th.bing.com/th?id=OSAAS.67CE744F3AF9AB3181DA21630627453B&w=80&h=80&o=6&dpr=2&pid=5.1" title="Notepad++" alt="Notepad++" width="40" height="40"> </a>   <br><br>
+--> Download according to the platform being used like Linux, MacOs or Windows.<br><br>
+--> Follow the setup wizard.<br><br>
+--> After setup, we can write code in HTML and also in other languages.<br><br>
+--> To see the output of HTML code open document in any browser.<br>
+
+---
+
+# Website Link
+
+<a href="https://library-management-website.netlify.app/"> <img src="https://5.imimg.com/data5/SELLER/Default/2021/12/UC/BP/KG/52242850/1-4--500x500.jpg" height=100 title="Library Management system website" alt="Library Management system website"></a>
+
+---
+
+# Thanks for Visiting 😄
+
+Drop a 🌟 if you find this repository useful.<br><br>
+If you have any doubts or suggestions, feel free to reach me.<br><br>
+📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-rawat/) &nbsp; &nbsp;
+<a href ="mailto:rawatmadhurima@gmail.com"><img src="https://www.freepnglogos.com/uploads/arrow-with-e-mail-logo-png-7.png" height=35 width=30 > </a>
