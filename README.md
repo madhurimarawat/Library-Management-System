@@ -24,10 +24,10 @@ This is my project Library Management System Website which I made under the inde
 </p>
 
 # Description
---> One of the primary goals of frontend development is to create a smooth or "frictionless" user experience.<br>
---> First a user friendly and responsive interface through frontend was developed.<br>
---> All visual features, pixels and cross browser compatibility will be taken in account.<br>
---> The website design is simple and easy to work with along with an attractive interface.<br>
+--> One of the primary goals of frontend development is to create a smooth or "frictionless" user experience.<br><br>
+--> First a user friendly and responsive interface through frontend was developed.<br><br>
+--> All visual features, pixels and cross browser compatibility will be taken in account.<br><br>
+--> The website design is simple and easy to work with along with an attractive interface.<br><br>
 --> Websites works well on multiple devices and screen sizes, which is possible as it involves responsive design.
 
 ---
