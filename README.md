@@ -32,7 +32,7 @@ This is my project Library Management System Website which I made under the inde
 
 ---
 
-# Mode of Execution Used  <img src="https://th.bing.com/th?id=OSAAS.67CE744F3AF9AB3181DA21630627453B&w=80&h=80&o=6&dpr=2&pid=5.1" title="Notepad++" alt="Notepad++" width="40" height="40"> </a> &nbsp;
+# Mode of Execution Used  <img src="https://th.bing.com/th?id=OSAAS.67CE744F3AF9AB3181DA21630627453B&w=80&h=80&o=6&dpr=2&pid=5.1" title="Notepad++" alt="Notepad++" width="40" height="40"> </a> &nbsp;<img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" title="Netlify" alt="Netlify" width="40" height="40">
 <h2>Notepad++</h2>
  --> To begin, visit the official website &nbsp; <a href="https://notepad-plus-plus.org/downloads/"><img src="https://th.bing.com/th?id=OSAAS.67CE744F3AF9AB3181DA21630627453B&w=80&h=80&o=6&dpr=2&pid=5.1" title="Notepad++" alt="Notepad++" width="40" height="40"> </a>   <br><br>
 --> Download according to the platform being used like Linux, MacOs or Windows.<br><br>
@@ -40,11 +40,24 @@ This is my project Library Management System Website which I made under the inde
 --> After setup, we can write code in HTML and also in other languages.<br><br>
 --> To see the output of HTML code open document in any browser.<br>
 
+## Hosting With Netlify
+
+1. Visit the official website of Netlify : <a href="https://www.netlify.com/"><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" title="Netlify" alt="Netlify" width="40" height="40"></a>
+<br><br>
+2. Now make an account with GitHub.<br><br>
+3. Now add all the code in Github repository.<br><br>
+4. Go to netlify and there is an option for new deployment.<br><br>
+5. Link with your Github repository name and make sure you have the index.html file for homepage. If you name your file as index it will directly access it else you have to specify the path.<br><br>
+6. We can also do manual deployment of our website by uploading in netlify manual uploads.<br><br>
+7. If everything went well our website will be deployed on web and you can share the link and access the app from all browsers.<br><br>
+8. Now netlify only supports static website. It does not have a server and it does not support websites with server requirement.<br><br>
+9. We can upload HTML,CSS and JS files in netlify.
+
 ---
 
 # Website Link
 
-<p>I have hosted this Website using netlify.Visit the link below to have a look at my Website</p>
+<p>I have hosted this Website using netlify.Click on the image below to have a look at my Website:</p>
 
 <a href="https://library-management-website.netlify.app/"> <img src="https://5.imimg.com/data5/SELLER/Default/2021/12/UC/BP/KG/52242850/1-4--500x500.jpg" height=100 title="Library Management system website" alt="Library Management system website"></a>
 
