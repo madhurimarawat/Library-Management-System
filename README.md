@@ -1,19 +1,19 @@
 # Library-Management-System
 This is my project Library Management System Website which I made under the independent project for Third Semester in my College.
 
-<h1>Website Design</h1>
+<h2>Website Design</h2>
 
 ![Website 1](https://github.com/madhurimarawat/Library-Management-System/assets/105432776/c0caa779-7328-4062-a0f6-9d495c65651b)
 
 ![Website 2](https://github.com/madhurimarawat/Library-Management-System/assets/105432776/31e77f32-b65f-453a-88c5-6798f31414cc)
 
-<img width="960" alt="Website 3" src="https://github.com/madhurimarawat/Library-Management-System/assets/105432776/c4f97336-3290-4bbf-a15e-5776d297581d">
+<img width="1010" alt="Website 3" src="https://github.com/madhurimarawat/Library-Management-System/assets/105432776/c4f97336-3290-4bbf-a15e-5776d297581d">
 
-<img width="960" alt="Website 4" src="https://github.com/madhurimarawat/Library-Management-System/assets/105432776/f4b73fcc-7955-4e81-a6cc-5262c3167126">
+<img width="1010" alt="Website 4" src="https://github.com/madhurimarawat/Library-Management-System/assets/105432776/f4b73fcc-7955-4e81-a6cc-5262c3167126">
 
-<img width="960" alt="Website 5" src="https://github.com/madhurimarawat/Library-Management-System/assets/105432776/56f94a42-60ed-47c1-a5aa-c07d66474194">
+<img width="1010" alt="Website 5" src="https://github.com/madhurimarawat/Library-Management-System/assets/105432776/56f94a42-60ed-47c1-a5aa-c07d66474194">
 
-# Technology Used 💻
+## Technology Used 💻
 
 ### 🛠 &nbsp;Languages and Tools :
 <p>
@@ -23,7 +23,7 @@ This is my project Library Management System Website which I made under the inde
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </p>
 
-# Description
+## Description
 --> One of the primary goals of frontend development is to create a smooth or "frictionless" user experience.<br><br>
 --> First a user friendly and responsive interface through frontend was developed.<br><br>
 --> All visual features, pixels and cross browser compatibility will be taken in account.<br><br>
@@ -32,7 +32,7 @@ This is my project Library Management System Website which I made under the inde
 
 ---
 
-# Mode of Execution Used  <img src="https://th.bing.com/th?id=OSAAS.67CE744F3AF9AB3181DA21630627453B&w=80&h=80&o=6&dpr=2&pid=5.1" title="Notepad++" alt="Notepad++" width="40" height="40"> </a> &nbsp;<img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" title="Netlify" alt="Netlify" width="40" height="40">
+## Mode of Execution Used  <img src="https://th.bing.com/th?id=OSAAS.67CE744F3AF9AB3181DA21630627453B&w=80&h=80&o=6&dpr=2&pid=5.1" title="Notepad++" alt="Notepad++" width="40" height="40"> </a> &nbsp;<img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" title="Netlify" alt="Netlify" width="40" height="40">
 <h2>Notepad++</h2>
  --> To begin, visit the official website &nbsp; <a href="https://notepad-plus-plus.org/downloads/"><img src="https://th.bing.com/th?id=OSAAS.67CE744F3AF9AB3181DA21630627453B&w=80&h=80&o=6&dpr=2&pid=5.1" title="Notepad++" alt="Notepad++" width="40" height="40"> </a>   <br><br>
 --> Download according to the platform being used like Linux, MacOs or Windows.<br><br>
@@ -55,14 +55,14 @@ This is my project Library Management System Website which I made under the inde
 
 ---
 
-# Website Link
+## Website Link
 
 <p>I have hosted this Website using netlify.Click on the image below to have a look at my Website:</p>
 
 <a href="https://library-management-website.netlify.app/"> <img src="https://5.imimg.com/data5/SELLER/Default/2021/12/UC/BP/KG/52242850/1-4--500x500.jpg" height=100 title="Library Management system website" alt="Library Management system website"></a>
 
 ---
-# Additional Resources 
+## Additional Resources 
 
 <p> For more Frontend Development codes visit my repository: https://github.com/madhurimarawat/Website-Frontend-Developement </p>
 
