@@ -3,15 +3,13 @@ This is my project Library Management System Website which I made under the inde
 
 <h2>Website Design</h2>
 
-![Website 1](https://github.com/madhurimarawat/Library-Management-System/assets/105432776/c0caa779-7328-4062-a0f6-9d495c65651b)
+![Screenshot 2024-06-23 191656](https://github.com/madhurimarawat/Library-Management-System/assets/105432776/92f8f5c7-3d6b-4ad4-a52f-f532927ba5b5)
 
-![Website 2](https://github.com/madhurimarawat/Library-Management-System/assets/105432776/31e77f32-b65f-453a-88c5-6798f31414cc)
+![Screenshot 2024-06-23 191629](https://github.com/madhurimarawat/Library-Management-System/assets/105432776/3a8ef0b8-99b8-4941-bb5a-f33c0cbe0f84)
 
-<img width="1010" alt="Website 3" src="https://github.com/madhurimarawat/Library-Management-System/assets/105432776/c4f97336-3290-4bbf-a15e-5776d297581d">
+![Screenshot 2024-06-23 191746](https://github.com/madhurimarawat/Library-Management-System/assets/105432776/6762b934-9798-430d-8419-7c8d72b89ec2)
 
-<img width="1010" alt="Website 4" src="https://github.com/madhurimarawat/Library-Management-System/assets/105432776/f4b73fcc-7955-4e81-a6cc-5262c3167126">
-
-<img width="1010" alt="Website 5" src="https://github.com/madhurimarawat/Library-Management-System/assets/105432776/56f94a42-60ed-47c1-a5aa-c07d66474194">
+![Screenshot 2024-06-23 191926](https://github.com/madhurimarawat/Library-Management-System/assets/105432776/007017a3-d5ae-4bc6-8cb1-eb8876fb254d)
 
 ## Technology Used 💻
 
