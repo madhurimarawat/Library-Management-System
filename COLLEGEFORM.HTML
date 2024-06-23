@@ -7,7 +7,7 @@
 
     <!-- Bootstrap CSS  CDN-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
-
+    <link rel = "stylesheet" href="css/style.css">
     <title>College Registration</title>
   </head>
   <body>
@@ -27,7 +27,7 @@
   </button>
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto">
+    <ul class="navbar-nav mr-100%">
       <li class="nav-item active">
         <a class="nav-link" href="index.htm">Home <span class="sr-only">(current)</span></a>
       </li>
@@ -64,67 +64,71 @@
 <br>
 <!-------------- student Slide Ends From Here------------------------------------>
 <!-------------- Registration form starts From Here------------------------------------>
-<div class="container">
-    <div class="row">
-	      <div class="col-md-4">
-		  
-		     <img src="Image/College-Campus.jpg" width="400px" height="630px" alt="College Image">
-          </div>
-		  <div class="col-md-8">
-		       <h1 align="center">College Registration</h1>
-			    <p style="text-alin:center; padding:35px">Register to avail benefits.</p>
-          
-<form style="margin-left:5%">
- 
-  <div class="form-group">
-    <label for="exampleInputEmail1">Email address</label>
-    <input type="email" placeholder="Enter Email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-  </div>
-  
-  <div class="row">
-    <div class="col">
-      <input type="text" class="form-control" placeholder="Enter College name">
-    </div>
-  </div>
-  <br>
-  <div class="form-group">
-    <label for="quantity">Enter College registration number</label>
-  <input type="number"  id="quantity" name="quantity" min="300012721001" max="300012821046">
-  </div>
-  
-  <div class="form-group">
-    <label for="quantity">Enter Password</label>
-      <input type="password" id="quantity" name="quantity">
-  </div>
 
-<div class="form-group">
-    <label for="exampleFormControlSelect1">Select College District</label>
-	<select class="form-control" id="exampleFormControlSelect1">
-      <option>Raipur</option>
-      <option>Rajnandgaon</option>
-      <option>Bilaspur</option>
-      <option>Bastar</option>
-      
-     
-    </select>
-  </div>
-  
+<div class="container heading_1">
   <div class="row">
-    <div class="col">
-      <input type="mobile" class="form-control" placeholder="Enter Contact Number">
+    <div class="col-md-6">
+      <div class="card">
+        <img src="Image/College-Campus.jpg" class="card-img-top" alt="Teacher Registration Image" height="100%" width="100%">
+      </div>
     </div>
-    <div class="col">
-      <input type="text" class="form-control" placeholder="Enter Address">
+    <div class="col-md-6">
+      <div class="card">
+        <div class="card-body">
+          <p style="text-align:center;">Register to avail benefits</p>
+          <form style="margin-left:5%">
+            <div class="form-group heading_1">
+              <div class="form-group heading_1">
+                <label for="exampleInputEmail1">Email address</label>
+                <input type="email" placeholder="Enter Email" class="form-control heading_1" id="exampleInputEmail1" aria-describedby="emailHelp">
+                <small id="emailHelp" class="form-text text-muted heading_1">We'll never share your email with anyone else.</small>
+              </div>
+              
+              <div class="row">
+                <div class="col">
+                  <input type="text" class="form-control heading_1" placeholder="Enter College name">
+                </div>
+              </div>
+              <br>
+              <div class="form-group heading_1">
+                <label for="quantity">Enter College registration number</label>
+              <input type="number"  id="quantity" name="quantity" min="300012721001" max="300012821046">
+              </div>
+              
+              <div class="form-group heading_1">
+                <label for="quantity">Enter Password</label>
+                  <input type="password" id="quantity" name="quantity">
+              </div>
+            
+            <div class="form-group heading_1">
+                <label for="exampleFormControlSelect1">Select College District</label>
+              <select class="form-control heading_1" id="exampleFormControlSelect1">
+                  <option>Raipur</option>
+                  <option>Rajnandgaon</option>
+                  <option>Bilaspur</option>
+                  <option>Bastar</option>
+                  
+                 
+                </select>
+              </div>
+              
+              <div class="row">
+                <div class="col">
+                  <input type="mobile" class="form-control heading_1" placeholder="Enter Contact Number">
+                </div>
+                <div class="col">
+                  <input type="text" class="form-control heading_1" placeholder="Enter Address">
+                </div>
+              </div>
+             <br>
+              <button type="submit"  class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+      </div>
     </div>
   </div>
- <br>
-  <button type="submit"  class="btn btn-primary">Submit</button>
-</form>
-		  
-		  </div>
-    </div>
 </div>
+
 
 <!-------------- Registration form Ends From Here------------------------------------>
 
