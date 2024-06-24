@@ -59,6 +59,10 @@ This is my project Library Management System Website which I made under the inde
 
 <a href="https://library-management-website.netlify.app/"> <img src="https://5.imimg.com/data5/SELLER/Default/2021/12/UC/BP/KG/52242850/1-4--500x500.jpg" height=100 title="Library Management system website" alt="Library Management system website"></a>
 
+<p>I have also hosted this Website using GitHub Pages. Click on the image below to have a look at my Website:</p>
+
+<a href="https://madhurimarawat.github.io/Library-Management-System/"> <img src="https://5.imimg.com/data5/SELLER/Default/2021/12/UC/BP/KG/52242850/1-4--500x500.jpg" height=100 title="Library Management system website" alt="Library Management system website"></a>
+
 ---
 ## Additional Resources 
 
