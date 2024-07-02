@@ -3,13 +3,13 @@ This is my project Library Management System Website which I made under the inde
 
 <h2>Website Design</h2>
 
-![Screenshot 2024-06-23 191656](https://github.com/madhurimarawat/Library-Management-System/assets/105432776/92f8f5c7-3d6b-4ad4-a52f-f532927ba5b5)
+<a href = "https://library-management-website.netlify.app/">![Screenshot 2024-06-23 191656](https://github.com/madhurimarawat/Library-Management-System/assets/105432776/92f8f5c7-3d6b-4ad4-a52f-f532927ba5b5)</a>
 
-![Screenshot 2024-06-23 191629](https://github.com/madhurimarawat/Library-Management-System/assets/105432776/3a8ef0b8-99b8-4941-bb5a-f33c0cbe0f84)
+<a href = "https://library-management-website.netlify.app/">![Screenshot 2024-06-23 191629](https://github.com/madhurimarawat/Library-Management-System/assets/105432776/3a8ef0b8-99b8-4941-bb5a-f33c0cbe0f84)</a>
 
-![Screenshot 2024-06-23 191746](https://github.com/madhurimarawat/Library-Management-System/assets/105432776/6762b934-9798-430d-8419-7c8d72b89ec2)
+<a href = "https://library-management-website.netlify.app/">![Screenshot 2024-06-23 191746](https://github.com/madhurimarawat/Library-Management-System/assets/105432776/6762b934-9798-430d-8419-7c8d72b89ec2)</a>
 
-![Screenshot 2024-06-23 191926](https://github.com/madhurimarawat/Library-Management-System/assets/105432776/007017a3-d5ae-4bc6-8cb1-eb8876fb254d)
+<a href = "https://library-management-website.netlify.app/">![Screenshot 2024-06-23 191926](https://github.com/madhurimarawat/Library-Management-System/assets/105432776/007017a3-d5ae-4bc6-8cb1-eb8876fb254d)</a>
 
 ## Technology Used 💻
 
